@@ -1,0 +1,136 @@
+/* home.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #ff6600;
+}
+
+.header {
+    background-color: #ffe6e6;
+    padding: 30px 20px;
+    border-radius: 15px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: left; 
+}
+
+.header-text {
+    max-width: 100%; 
+}
+
+.header h1 {
+    color: #000000; /* Cor preta para o título */
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-align: left; 
+}
+
+.header p {
+    color: #333;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.categories {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.categories button {
+    background: transparent;
+    border: 1px solid #000000; /* Borda preta */
+    border-radius: 5px;
+    color: #000000; /* Texto preto */
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 5px;
+    padding: 10px 20px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.categories button.active {
+    background: #000000; /* Fundo preto para botão ativo */
+    color: #ffffff; /* Texto branco para botão ativo */
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.grid-item {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    background-color: #f9f9f9;
+}
+
+.grid-item h3 {
+    margin: 10px 0;
+    color: #000000; /* Cor preta para os títulos das receitas */
+    cursor: pointer;
+}
+
+.grid-item h3:hover {
+    text-decoration: underline;
+}
+
+.grid-item .description {
+    color: #666;
+    font-size: 14px;
+    margin-top: 5px;
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.grid-item.active .description {
+    display: block;
+}
+
+/* Estilo para o link "Ver receita" */
+.grid-item a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #ff6600;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.grid-item a:hover {
+    background-color: #e65500;
+}
+

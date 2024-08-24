@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Omelete Simples",
+    "category": "Café da Manhã",
+    "ingredients": ["2 ovos", "Sal", "Pimenta", "Manteiga"],
+    "instructions": "Bata os ovos, tempere com sal e pimenta. Aqueça a manteiga em uma frigideira e despeje os ovos batidos. Cozinhe até firmar."
+  },
+  {
+    "id": 2,
+    "name": "Macarrão Alho e Óleo",
+    "category": "Prato Principal",
+    "ingredients": ["200g de macarrão", "3 dentes de alho", "Azeite", "Sal", "Pimenta"],
+    "instructions": "Cozinhe o macarrão. Em uma frigideira, doure o alho no azeite. Misture o macarrão com o alho, tempere e sirva."
+  },
+  {
+    "id": 3,
+    "name": "Salada de Atum",
+    "category": "Saladas",
+    "ingredients": ["1 lata de atum", "Alface", "Tomate", "Cebola", "Azeite", "Sal"],
+    "instructions": "Misture todos os ingredientes em uma tigela e tempere a gosto."
+  },
+  {
+    "id": 4,
+    "name": "Panqueca de Banana",
+    "category": "Café da Manhã",
+    "ingredients": ["1 banana", "2 ovos", "Canela a gosto"],
+    "instructions": "Amasse a banana e misture com os ovos. Despeje a massa em uma frigideira e cozinhe até dourar."
+  },
+  {
+    "id": 5,
+    "name": "Brigadeiro",
+    "category": "Sobremesas",
+    "ingredients": ["1 lata de leite condensado", "2 colheres de sopa de chocolate em pó", "1 colher de sopa de manteiga", "Granulado"],
+    "instructions": "Misture o leite condensado, chocolate e manteiga em uma panela. Cozinhe até desgrudar da panela. Deixe esfriar, faça bolinhas e passe no granulado."
+  },
+  {
+    "id": 6,
+    "name": "Sanduíche Natural",
+    "category": "Lanches",
+    "ingredients": ["2 fatias de pão integral", "Peito de peru", "Alface", "Tomate", "Queijo", "Maionese"],
+    "instructions": "Monte o sanduíche com todos os ingredientes e sirva."
+  },
+  {
+    "id": 7,
+    "name": "Smoothie de Morango",
+    "category": "Bebidas",
+    "ingredients": ["1 xícara de morangos", "1 banana", "1 xícara de leite", "Mel a gosto"],
+    "instructions": "Bata todos os ingredientes no liquidificador até ficar homogêneo."
+  },
+  {
+    "id": 8,
+    "name": "Guacamole",
+    "category": "Entradas",
+    "ingredients": ["1 abacate", "1 tomate", "Cebola roxa", "Suco de limão", "Sal", "Coentro"],
+    "instructions": "Amasse o abacate e misture com os outros ingredientes. Tempere a gosto."
+  },
+  {
+    "id": 9,
+    "name": "Iogurte com Granola e Mel",
+    "category": "Café da Manhã",
+    "ingredients": ["1 pote de iogurte natural", "Granola", "Mel"],
+    "instructions": "Coloque a granola por cima do iogurte e finalize com mel."
+  },
+  {
+    "id": 10,
+    "name": "Biscoito de Aveia",
+    "category": "Lanches",
+    "ingredients": ["1 xícara de aveia", "1 banana amassada", "1 colher de sopa de mel", "Canela a gosto"],
+    "instructions": "Misture todos os ingredientes, faça bolinhas e asse em forno a 180°C por 15 minutos."
+  },
+  {
+    "id": 11,
+    "name": "Arroz com Brócolis",
+    "category": "Acompanhamentos",
+    "ingredients": ["2 xícaras de arroz", "1 maço de brócolis", "Alho", "Sal", "Azeite"],
+    "instructions": "Cozinhe o arroz. Refogue o alho no azeite, adicione o brócolis e misture com o arroz."
+  },
+  {
+    "id": 12,
+    "name": "Cuscuz Nordestino",
+    "category": "Café da Manhã",
+    "ingredients": ["1 xícara de farinha de milho", "1/2 xícara de água", "Sal", "Manteiga"],
+    "instructions": "Misture a farinha de milho com a água e o sal. Cozinhe no cuscuzeiro por 10 minutos e sirva com manteiga."
+  },
+  {
+    "id": 13,
+    "name": "Torrada com Abacate",
+    "category": "Lanches",
+    "ingredients": ["2 fatias de pão", "1 abacate", "Sal", "Pimenta", "Suco de limão"],
+    "instructions": "Toste o pão. Amasse o abacate, tempere com sal, pimenta e limão. Espalhe sobre o pão."
+  },
+  {
+    "id": 14,
+    "name": "Frango Grelhado",
+    "category": "Prato Principal",
+    "ingredients": ["2 filés de frango", "Sal", "Pimenta", "Azeite", "Alho"],
+    "instructions": "Tempere o frango com sal, pimenta e alho. Grelhe em uma frigideira com azeite até dourar."
+  },
+  {
+    "id": 15,
+    "name": "Mousse de Maracujá",
+    "category": "Sobremesas",
+    "ingredients": ["1 lata de leite condensado", "1 lata de creme de leite", "1 xícara de suco de maracujá"],
+    "instructions": "Bata todos os ingredientes no liquidificador e leve à geladeira por 2 horas."
+  },
+  {
+    "id": 16,
+    "name": "Bolinho de Chuva",
+    "category": "Sobremesas",
+    "ingredients": ["2 ovos", "2 colheres de açúcar", "2 xícaras de farinha de trigo", "1 xícara de leite", "1 colher de fermento"],
+    "instructions": "Misture todos os ingredientes. Frite colheradas da massa em óleo quente até dourar."
+  },
+  {
+    "id": 17,
+    "name": "Sopa de Legumes",
+    "category": "Prato Principal",
+    "ingredients": ["2 batatas", "2 cenouras", "1 abobrinha", "1 chuchu", "Água", "Sal", "Azeite"],
+    "instructions": "Corte os legumes, cozinhe na água com sal até amolecer. Bata no liquidificador ou sirva em pedaços."
+  },
+  {
+    "id": 18,
+    "name": "Salada de Frutas",
+    "category": "Sobremesas",
+    "ingredients": ["Maçã", "Banana", "Laranja", "Manga", "Suco de laranja", "Mel"],
+    "instructions": "Corte as frutas em pedaços, misture com o suco de laranja e mel."
+  },
+  {
+    "id": 19,
+    "name": "Bolo de Caneca",
+    "category": "Sobremesas",
+    "ingredients": ["4 colheres de farinha de trigo", "4 colheres de açúcar", "2 colheres de chocolate em pó", "1 ovo", "Leite", "Óleo"],
+    "instructions": "Misture todos os ingredientes em uma caneca e leve ao micro-ondas por 3 minutos."
+  },
+  {
+    "id": 20,
+    "name": "Pão de Queijo de Tapioca",
+    "category": "Lanches",
+    "ingredients": ["1 xícara de tapioca granulada", "1 xícara de leite", "1 xícara de queijo ralado", "1 ovo"],
+    "instructions": "Misture todos os ingredientes, faça bolinhas e asse em forno a 180°C por 20 minutos."
+  },
+  {
+    "id": 21,
+    "name": "Suco Verde",
+    "category": "Bebidas",
+    "ingredients": ["1 folha de couve", "1 maçã", "1 pedaço de gengibre", "1 copo de água de coco", "Suco de limão"],
+    "instructions": "Bata todos os ingredientes no liquidificador e coe antes de servir."
+  },
+  {
+    "id": 22,
+    "name": "Bife à Milanesa",
+    "category": "Prato Principal",
+    "ingredients": ["4 bifes de carne", "Farinha de trigo", "Farinha de rosca", "2 ovos", "Sal", "Pimenta", "Óleo"],
+    "instructions": "Tempere os bifes, passe na farinha de trigo, depois nos ovos batidos e na farinha de rosca. Frite em óleo quente."
+  },
+  {
+    "id": 23,
+    "name": "Batata Assada com Alecrim",
+    "category": "Acompanhamentos",
+    "ingredients": ["4 batatas", "Azeite", "Sal", "Pimenta", "Alecrim"],
+    "instructions": "Corte as batatas, tempere com azeite, sal, pimenta e alecrim. Asse em forno a 200°C por 30 minutos."
+  },
+  {
+    "id": 24,
+    "name": "Café Gelado",
+    "category": "Bebidas",
+    "ingredients": ["1 xícara de café coado", "Gelo", "Leite", "Açúcar"],
+    "instructions": "Misture o café com gelo, leite e açúcar a gosto."
+  },
+  {
+    "id": 25,
+    "name": "Ovo Cozido",
+    "category": "Café da Manhã",
+    "ingredients": ["2 ovos", "Água", "Sal"],
+    "instructions": "Coloque os ovos em uma panela com água e sal. Cozinhe por 10 minutos após ferver."
+  },
+  {
+    "id": 26,
+    "name": "Tapioca com Coco",
+    "category": "Café da Manhã",
+    "ingredients": ["2 colheres de goma de tapioca", "Coco ralado", "Leite condensado"],
+    "instructions": "Espalhe a goma de tapioca em uma frigideira, adicione o coco e dobre ao meio. Regue com leite condensado."
+  },
+  {
+    "id": 27,
+    "name": "Salmão Assado",
+    "category": "Prato Principal",
+    "ingredients": ["1 filé de salmão", "Sal", "Pimenta", "Azeite", "Alecrim", "Limão"],
+    "instructions": "Tempere o salmão com sal, pimenta, azeite, alecrim e limão. Asse em forno a 200°C por 20 minutos."
+  },
+  {
+    "id": 28,
+    "name": "Molho Pesto",
+    "category": "Molhos",
+    "ingredients": ["1 maço de manjericão", "1/2 xícara de azeite", "1/4 xícara de nozes", "1/2 xícara de queijo parmesão", "2 dentes de alho"],
+    "instructions": "Bata todos os ingredientes no liquidificador até obter uma pasta homogênea."
+  },
+  {
+    "id": 29,
+    "name": "Farofa Simples",
+    "category": "Acompanhamentos",
+    "ingredients": ["2 colheres de manteiga", "1 cebola picada", "2 xícaras de farinha de mandioca", "Sal"],
+    "instructions": "Derreta a manteiga, refogue a cebola e adicione a farinha. Mexa até dourar e tempere com sal."
+  },
+  {
+    "id": 30,
+    "name": "Arroz Doce",
+    "category": "Sobremesas",
+    "ingredients": ["1 xícara de arroz", "2 xícaras de leite", "1 lata de leite condensado", "Canela em pó"],
+    "instructions": "Cozinhe o arroz no leite até amolecer. Adicione o leite condensado e cozinhe até engrossar. Sirva com canela."
+  }
+]
