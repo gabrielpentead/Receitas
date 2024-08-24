@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'; 
 import api from './../../chef.json';
 import './home.css';
 
@@ -19,10 +19,6 @@ function Home() {
 
   return (
     <div>
-      <nav className="navbar">
-      <Link to="/" className="logo">Foodfy</Link>
-      </nav>
-
       <header className="header">
         <div className="header-text">
           <h1>As melhores receitas</h1>
@@ -52,7 +48,7 @@ function Home() {
               {receita.name}
             </h3>
             <p className="description">{receita.description}</p>
-            <Link to={`/receitas/${receita.id}`}>Ver receita</Link>
+            <Link to={`/receitas/${receita.id}`}>Ver receita</Link>  {/* Mantenha esta linha se você ainda precisa do Link */}
           </div>
         ))}
       </section>

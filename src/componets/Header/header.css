@@ -1,0 +1,41 @@
+/* home.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Estilo específico para o logo "Foodfy" */
+.logo-link {
+    font-weight: bold;     /* Negrito */
+    color: #ff6600;        /* Cor laranja */
+    font-size: 24px;       /* Tamanho da fonte */
+    text-transform: uppercase; /* Texto em maiúsculas */
+    transition: color 0.3s ease;
+}
+
+.logo-link:hover {
+    color: #e65500;        /* Laranja mais escuro ao passar o mouse */
+}
+
+.header {
+    background-color: #ffe6e6;
+    padding: 30px 20px;
+    border-radius: 15px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: left; 
+}
+
+/* Resto do CSS permanece o mesmo... */

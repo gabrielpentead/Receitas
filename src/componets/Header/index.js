@@ -1,14 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './header.css'; // Importe o CSS específico para o header
 
 function Header() {
   return (
     <header>
-      <nav>
+      <nav className="navbar">
         <ul>
-          <li>
-            <Link to="/" className="logo">Foodfy</Link>
-          </li>
+            <Link to="/" className="logo-link">Foodfy</Link>
         </ul>
       </nav>
     </header>

@@ -1,4 +1,3 @@
-// Receitas.js
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import api from './../../chef.json';
@@ -14,11 +13,7 @@ function Receitas() {
 
   return (
     <div>
-      <nav className="navbar">
-        <div className="logo">Foodfy</div>
       
-      </nav>
-
       <div className="container">
         <h1>{receita.name}</h1>
         <p>Categoria: {receita.category}</p>
